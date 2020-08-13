@@ -1,0 +1,114 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+div{
+    position: relative;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    -webkit-border-radius: 0% 0% 100% 100% / 0% 0% 8px 8px;
+    -webkit-box-shadow: rgba(0, 0, 0,.30) 0 2px 3px;
+}
+
+img{
+    max-width: 20em;
+    max-height: 20em;
+}
+
+header{
+    -webkit-border-radius: 0% 0% 100% 100% / 0% 0% 8px 8px;
+    -webkit-box-shadow: rgba(0, 0, 0,.30) 0 2px 3px;
+}
+
+td{
+    text-align: justify;
+}
+
+.container{
+    margin: 0 auto;
+    margin-top: 10px;
+    height: 4.5em;
+    background: #F2F2F2;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 2px #fff inset,
+                -1px -1px 2px #fff inset;
+    border-radius: 3px/6px;      
+    font-size: small;      
+    text-align: center;      
+}
+
+.about {
+    margin: 0 auto;
+    margin-top: 10px;
+    height: 9em;
+    background: #F2F2F2;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 2px #fff inset,
+                -1px -1px 2px #fff inset;
+    border-radius: 3px/6px;              
+}
+
+.about_msg{
+    font-size: medium;
+}
+.about_info{
+    font-size: small;
+    text-align: justify;
+}
+.about_title{
+    font-size: large;
+}
+
+.experience{
+    margin: 0 auto;
+    margin-top: 10px;
+    height: 43em;
+    background: #F2F2F2;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 2px #fff inset,
+                -1px -1px 2px #fff inset;
+    border-radius: 3px/6px;  
+}
+.experience_table{
+    margin-top: 2em;
+    margin-left: 8em;
+    max-width: 20em;
+}
+.footer{
+    margin: 0 auto;
+    margin-top: 10px;
+    height: 3em;
+    background: #F2F2F2;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 2px #fff inset,
+                -1px -1px 2px #fff inset;
+    border-radius: 3px/6px;      
+    font-size: small;      
+    text-align: center;      
+}
