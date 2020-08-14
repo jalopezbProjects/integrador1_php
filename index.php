@@ -9,7 +9,7 @@
         <nav id="navigation_bar">
             <ul>
                 <li><a href="index.php">Home</a></li>
-                <li><a href="game.php">Let's Play</a></li>
+                <li><a href="form.php">Let's Play</a></li>
               </ul>
         </nav>
         <header>
